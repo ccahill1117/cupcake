@@ -1,0 +1,43 @@
+
+
+div.divbg {
+  background: url(https://c1.staticflickr.com/2/1304/1041964418_3aa1ce7f4f_b.jpg);
+  opacity: 0.3;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Pacifico', cursive;
+  color: purple;
+}
+
+p.intro {
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+
+.cupcakes {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: 250px;
+  padding: 2px;
+
+}
+
+.centercontainer {
+    margin: auto;
+    width: 30%;
+    border: 3px solid green;
+    padding: 10px;
+}
